@@ -1,0 +1,6 @@
+{
+  "name": "Zahra's Universe",
+  "description": "A serene, celestial web universe created for Zahra with interactive constellations, letters, starry wishes, and timekeeper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
